@@ -4,4 +4,12 @@
 <p>Implementação do rodapé.</p>
 <p>&nbsp;</p>
 
+![Preview](ReadMe/css-instagram-full.JPG)
+
+<p>&nbsp;</p>
+
+![Preview](ReadMe/css-instagram-mobile.JPG)
+
+<p>&nbsp;</p>
+
 ![Preview](ReadMe/css-instagram.gif)
